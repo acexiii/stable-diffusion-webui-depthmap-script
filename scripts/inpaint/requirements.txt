@@ -5,3 +5,4 @@ transforms3d==0.3.1
 networkx==2.3
 cynetworkx
 scikit-image
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
